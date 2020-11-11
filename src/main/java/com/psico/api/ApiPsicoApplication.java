@@ -1,4 +1,4 @@
-package com.psico.domain;
+package com.psico.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
